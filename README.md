@@ -8,3 +8,5 @@ Material: [Beej's Guide to Network Programming Using Internet Sockets](https://b
 | Chapter | Notes |
 | --- | --- |
 | Chapter 1 - Intro | [chapter_1.md](notes/chapter_1.md) |
+| Chapter 2 - What is a socket? | [chapter_2.md](notes/chapter_2.md) |
+

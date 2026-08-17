@@ -9,4 +9,4 @@ Material: [Beej's Guide to Network Programming Using Internet Sockets](https://b
 | --- | --- |
 | Chapter 1 - Intro | [chapter_1.md](notes/chapter_1.md) |
 | Chapter 2 - What is a socket? | [chapter_2.md](notes/chapter_2.md) |
-
+| Chapter 3 - IP Addresses, structs, and Data Munging | [chapter_3.md](notes/chapter_3.md) |

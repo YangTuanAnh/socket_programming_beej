@@ -3,13 +3,13 @@
 ## Summary
 Calls learned: `getaddrinfo()`, `socket()`, `connect()` `bind()`, `listen()`, `accept()`, `send()`, `recv()`, `sendto()`, `recvto()`, `close()`, `shutdown()`, `getpeername()`, `gethostname()`
 
-Implementations over [showip.c](../src/showip.c) and [listen.c](../src/listen.c)
+Implementations over [showip.c](src/showip.c) and [listen.c](src/listen.c)
 
 ## `getaddrinfo()` - Prepare to launch!
 
-Implementation over [showip.c](../src/showip.c)
+Implementation over [showip.c](src/showip.c)
 
-![showip](../assets/showip.png)
+![showip](assets/showip.png)
 
 ## `socket()` - Get the File Descriptor
 

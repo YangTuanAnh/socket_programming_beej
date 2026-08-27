@@ -54,7 +54,7 @@ Why UDP? Speed. Chat messages should use TCP, rapid positional updates in games 
 
 ## Low level Nonsense and Network Theory - Data Encapsulation
 
-![Data Encapsulation](../assets/encapsulation.png)
+![Data Encapsulation](assets/encapsulation.png)
 
 a packet is born, the packet is wrapped (“encapsulated”) in a header (and rarely a footer) by the first protocol (say, the TFTP protocol), then the whole thing (TFTP header included) is encapsulated again by the next protocol (say, UDP), then again by the next (IP), then again by the final protocol on the hardware (physical) layer (say, Ethernet).
 

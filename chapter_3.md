@@ -95,7 +95,7 @@ No standard 64-bit variants in the sockets API
 
 A socket descriptor is just: `int`
 
-Code: [src/structs.c](../src/structs.c)
+Code: [src/structs.c](src/structs.c)
 
 `struct addrinfo` prep the socket address structures for subsequent use. Load the struct and call `getaddrinfo` to return a pointer to a new linked list;
 
